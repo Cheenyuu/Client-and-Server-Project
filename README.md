@@ -1,4 +1,4 @@
-#IMPORTANT NOTE:
+# IMPORTANT NOTE:
 Although I doubt anyone would be confused, I just don't want to take credit for something I didn't write. The "server.py" file was written by my instructor for the course, not by me, I only wrote "client.c"
 
 # mycord Final Programming Assignment
